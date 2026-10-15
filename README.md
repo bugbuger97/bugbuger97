@@ -1,5 +1,6 @@
 <h2>Hi, I'm Junho Paeng(팽준호) 👋</h2>
-📄 **[Portfolio (PDF)](./Portfolio.pdf)**
+📄 [포트폴리오_팽준호.pdf](https://github.com/user-attachments/files/33479553/_.pdf)
+
 
 ---
 
